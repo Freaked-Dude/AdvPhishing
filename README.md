@@ -3,8 +3,8 @@
 
 
 # INSTALLATION [ TERMUX APP --ANDROID ]
-* git clone https://github.com/Ignitetch/AdvPhishing.git
-* cd AdvPhishing/
+* git clone https://github.com/Freaked-Dude/MotherOfAllPhishing.git
+* cd MotherOfAllPhishing/
 * chmod 777 start.sh
 * ./start.sh
-* ./An-AdvPhishing.sh
+* ./SubscribeToFreakedDude.sh
